@@ -1,0 +1,20 @@
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\ProgRAMS\C#\Labs\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\Учеба\3 сем\Прога\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Учеба\3 сем\Прога\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Учеба\3 сем\Прога\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Учеба\3 сем\Прога\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Учеба\3 сем\Прога\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\Учеба\3 сем\Прога\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Учеба\3 сем\Прога\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Учеба\3 сем\Прога\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Учеба\3 сем\Прога\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Учеба\3 сем\Прога\Lab4\Lab4\obj\Debug\Lab4.pdb
